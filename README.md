@@ -1,4 +1,4 @@
-# Breast Cells Classification with Carbon Nanoparticles
+# Breast Cells Classification
 
 This repository contains the code and resources for a project aimed at predicting the class of breast cells (benign/malignant) after exposure to carbon nanoparticles. This project was completed as part of a machine learning contest for the Master’s degree in Computer Engineering at the University of Naples Federico II.
 
@@ -17,8 +17,6 @@ The dataset used in this project is provided by the DICMAPI research group. It i
 Each acquisition contains multiple cells, and an algorithm is used to extract individual cells, treating each one as a separate image. The training set consists of 40 acquisitions, each represented as a folder containing images in the `.npy` format. The test set includes 10 acquisitions without separate folders.
 
 **Note:** For privacy reasons, the dataset used in this project cannot be shared publicly.
-
-## Project Structure
 
 ## Acknowledgements
 
